@@ -62,9 +62,9 @@ secure-file-sharing/
 This project is **open-source** and available under the **MIT License**.
 
 ## Author
-- **Your Name**
-- **Email: your.email@example.com**
-- **GitHub: [your-github-profile](https://github.com/your-github-profile)**
+- Your Name
+- Email: vimalparmar0504@gmail.com
+- GitHub: [https://github.com/VimalParmar01/python_projects/tree/main/Filesharing]
 
 ---
 Feel free to contribute or suggest improvements!
